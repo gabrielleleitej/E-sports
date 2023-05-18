@@ -4,7 +4,7 @@
 Projeto construído do evento
  Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://github.com/gabrielleleitej/NLW)
+[Clique aqui para acessar](https://gabrielleleitej.github.io/NLW/)
 
  ## Tecnologias
  - HTML
